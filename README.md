@@ -128,3 +128,8 @@ npx serve .
 - Vanilla JavaScript
 - Firebase Firestore (leaderboard)
 - Web Audio API (sound effects)
+
+## Contact
+
+- Email: infomorile@gmail.com
+- Location: Lagos, Nigeria
