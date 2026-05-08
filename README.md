@@ -1,4 +1,4 @@
-# Glock 'D' Ghoost 👻🔫
+# Glock 'D' Ghoost 
 
 A browser-based 2D shooter game where you fight waves of ghosts across 10 levels, ending in a boss battle. Built with HTML5 Canvas and Firebase.
 
